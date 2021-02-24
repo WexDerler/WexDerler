@@ -2,7 +2,7 @@
 
 <p><p><img align="center" src="https://cdn.discordapp.com/attachments/760604581712625667/814191904031113306/wex_heree.png"
 
-<h3 align="left">Bildiğim Diller:</h6>
+<h3 align="left">𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈:</h6>
 <p align="left">
 <a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614189932~hmac=846e901990d20818ffbe7a09b890c836" alt="wexderler" height="30" width="40" /></a>
 </p>
