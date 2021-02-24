@@ -1,5 +1,7 @@
 <h1 align="center">Calm Down.. WeX Here ❤️</h1>
 
+<p><p><img align="center" src="https://cdn.discordapp.com/attachments/760604581712625667/814190676304068688/banner_wex.png"
+
 <h3 align="left">İnstagram:</h3>
 <p align="left">
 <a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wexderler" height="30" width="40" /></a>
