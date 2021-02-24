@@ -2,7 +2,7 @@
 
 <p><p><img align="center" src="https://cdn.discordapp.com/attachments/760604581712625667/814191904031113306/wex_heree.png"
 
-<div align="center"><p>𝐒𝐎𝐒𝐘𝐀𝐋 𝐌𝐄𝐃𝐘𝐀</p> </div>
+<div style="text-align:center"><p>𝐒𝐎𝐒𝐘𝐀𝐋 𝐌𝐄𝐃𝐘𝐀</p> </div>
 <p align="left">
 <a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614189932~hmac=846e901990d20818ffbe7a09b890c836" alt="wexderler" height="30" width="40" /></a>
 </p>
