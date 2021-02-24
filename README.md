@@ -4,7 +4,7 @@
 
 <h3 align="left">İnstagram:</h3>
 <p align="left">
-<a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="wexderler" height="30" width="40" /></a>
+<a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://www.pngkey.com/png/full/283-2831746_insta-icon-instagram.png" alt="wexderler" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Bildiğim Diller:</h3>
