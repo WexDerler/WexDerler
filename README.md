@@ -1,6 +1,6 @@
 <h1 align="center">Calm Down.. WeX Here ❤️</h1>
 
-<p><p><img align="center" src="https://cdn.discordapp.com/attachments/760604581712625667/814191265875886160/www00.png"
+<p><p><img align="center" src="https://cdn.discordapp.com/attachments/760604581712625667/814191904031113306/wex_heree.png"
 
 <h3 align="left">İnstagram:</h3>
 <p align="left">
