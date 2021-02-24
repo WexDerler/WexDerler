@@ -1,5 +1,4 @@
 <h1 align="center">Calm Down.. WeX Here ❤️</h1>
-- 📧 e-Mail **wexpera@gmail.com**
 
 <h3 align="left">İnstagram:</h3>
 <p align="left">
@@ -12,4 +11,4 @@
 Support 🙏
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wexderler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="wexderler" /></p>
+<p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wexderler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="wexderler" /></p>
