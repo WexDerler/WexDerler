@@ -4,7 +4,7 @@
 
 <div style="text-align:center"><p>𝐒𝐎𝐒𝐘𝐀𝐋 𝐌𝐄𝐃𝐘𝐀</p> </div>
 <p align="left">
-<a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614189932~hmac=846e901990d20818ffbe7a09b890c836" alt="wexderler" height="30" width="40" /></a>
+<a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="wexderler" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">𝐁𝐈𝐋𝐃𝐈𝐆𝐈𝐌 𝐃𝐈𝐋𝐋𝐄𝐑</h3>
