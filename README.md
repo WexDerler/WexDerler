@@ -6,7 +6,9 @@
 <p align="left">
 <a href="https://instagram.com/wexderler" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/814479309506609182/814853074244861962/instagram.png" alt="wexderler" height="40" width="150" /></a>
     
-  <a href="https://github.com/wexderler" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/814479309506609182/814868932418076752/ff.png" alt="wexderler" height="40" width="150" /></a>
+  <a href="https://github.com/wexderler" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/814479309506609182/814868932418076752/ff.png" alt="wexderler" height="40" width="150" /></a>    
+ 
+ <a href="https://discord.com/users/728161454288535604" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/814479309506609182/814869708938674226/discord.png" alt="wexderler" height="40" width="150" /></a>
 </p>
 
 <h3 align="left">𝐁𝐈𝐋𝐃𝐈𝐆𝐈𝐌 𝐃𝐈𝐋𝐋𝐄𝐑</h3>
